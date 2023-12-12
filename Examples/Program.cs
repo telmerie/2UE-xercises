@@ -47,11 +47,24 @@ string = Text in ""
 
 // Console.WriteLine(str);
 
-Console.WriteLine("Write your input");
+// Console.WriteLine("Write your input");
 
-double d = Convert.ToDouble(Console.ReadLine());
+// double d = Convert.ToDouble(Console.ReadLine());
 
-Console.WriteLine(d);
+// Console.WriteLine(d);
+
+// string input = Console.ReadLine()!;
+
+// Console.WriteLine("input is " + input);
+
+// char c = Convert.ToChar(input);
+
+// Console.WriteLine("this is my char input " + c);
+
+char c = Convert.ToChar(Console.ReadLine());
+
+Console.WriteLine("c is " + c);
+
 
 
 
