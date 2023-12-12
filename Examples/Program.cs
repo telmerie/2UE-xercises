@@ -47,8 +47,11 @@ string = Text in ""
 
 // Console.WriteLine(str);
 
+Console.WriteLine("Write your input");
 
+double d = Convert.ToDouble(Console.ReadLine());
 
+Console.WriteLine(d);
 
 
 
