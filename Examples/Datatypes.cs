@@ -1,14 +1,14 @@
-class Datatypes
-{
+// class Datatypes
+// {
 
-    static void Main(string[] args)
-    {
+//     static void Main(string[] args)
+//     {
 
-        string x = Console.ReadLine(), y = Console.ReadLine(), z = Console.ReadLine();
+//         string x = Console.ReadLine(), y = Console.ReadLine(), z = Console.ReadLine();
 
-        Console.WriteLine($"x i {x}, y is {y}, z is {z}");
+//         Console.WriteLine($"x i {x}, y is {y}, z is {z}");
 
-    }
+//     }
 
 
-}
+// }
