@@ -1,11 +1,17 @@
-// class Arrays{
-//     static void Main(){
+class Arrays
+{
 
-//         int[][] i = [[1,2,3,], [5,6]];
+    static void Main()
+    {
+        int[] numbers = new int[10];
 
-//         Console.WriteLine(i[0][0]);
 
+        for(int i = 0; i < numbers.Length; i++){
+            numbers[i] = i;
+        }
 
-//     }
-    
-// }
+        for(int i = 0; i < numbers.Length; i++){
+            Console.WriteLine(numbers[i]);
+        }
+    }
+}
