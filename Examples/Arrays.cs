@@ -59,12 +59,7 @@ class Arrays
                 {
                     Console.Write(intArray[i] + " ");
                 }
-
             }
-
         }
-
-
-
     }
 }
