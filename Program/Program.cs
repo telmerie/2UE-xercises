@@ -2,9 +2,9 @@
 {
   static void Main()
   {
-    Console.Write("Input number of Fibonacci Series :");
-
-    Fibonacci(Convert.ToInt32(Console.ReadLine()!));
+      SwitchCases switchCases = new SwitchCases();
+      switchCases.Exercise11();
+    
 
   }
 
